@@ -1,5 +1,7 @@
 {
   "name": "tvapp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
